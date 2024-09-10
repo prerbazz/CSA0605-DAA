@@ -48,4 +48,4 @@ def linked_list_to_list(head):
 list1 = create_linked_list([1, 2, 4])
 list2 = create_linked_list([1, 3, 4])
 merged_list = merge_two_lists(list1, list2)
-print(linked_list_to_list(merged_list))  # Output: [1, 1, 2, 3, 4, 4]
+print(linked_list_to_list(merged_list))  
